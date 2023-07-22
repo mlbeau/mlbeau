@@ -6,10 +6,8 @@
 #### I'm a supply chain intelligence analyst at Carrier Corporation concerned with forecasting and optimization.
 
 This portfolio is a work in progress but will include what I hope are useful and informative projects to the reader 
-illustrating the data science life cycle with some focus on data sourcing as it is consumes the majority of a data 
-scientist's time.  Reliable data goes beyond merely importing CSVs for modeling purposes, thus examples of efficient 
-code illustrating the process should be meaningful.  Pushing the data to a database along with retrieving it via SQL 
-to report on a model’s salient features should be illustrative as well.
+touching on key aspects of the data science life cycle.  There will be some focus on data acquisition as it is a  a time consuming phase in the modeling process, thus webscraping examples should prove to be useful.  Pushing the data 
+to a database along with retrieving it via SQL for reporting on model features should be illustrative as well.
 
 I'll be focusing on the following areas that I find interesting:
 - Recommendation Systems
