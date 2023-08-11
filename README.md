@@ -15,26 +15,35 @@
 </a>  
   
 
+## Welcome to My Data Science Portfolio!
 
+Glad to see you here! I'm Michael Beauchamp, a seasoned data scientist with a passion for extracting insights from data. With two decades of experience in industrial automation, data analysis, and software engineering, I've honed my skills to tackle complex challenges in the world of data.
 
-### Glad to see you here!  
-I'm a data scientist twenty years in the making - I began my career in industrial automation and have worked as a data analyst and software engineer along the way.  The common thread thoughout my career has been centered on data and extracting insights from it.  Currently, I'm a supply chain intelligence analyst at Carrier Corporation concerned with forecasting and optimization.
+### About Me
 
-This portfolio is a work in progress but will include what I hope are useful and informative projects to the reader touching on key aspects of the data science life cycle.
+Currently, I'm a Supply Chain Intelligence Analyst at Carrier Corporation, where I'm deeply involved in forecasting and optimization. Throughout my career, I've been on a journey of continuous learning, and I'm excited about the dynamic nature of data science and its potential to drive innovation.
 
-I'll be focusing on the following areas that I find interesting at the moment:
+### Portfolio Highlights
 
-- Recommendation Systems
-- Deep Learning
-- NLP and AI
+My portfolio is a work in progress and will soon feature a collection of projects that showcase various aspects of the data science life cycle. Some areas I'm diving into include:
 
-Feel free to connect with me on LinkedIn.
+- Data Science and Machine Learning
+- Computer Vision
+- Natural Language Processing (NLP) and Artificial Intelligence (AI)
+
+### Connect with Me
+
+Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mlbeauchamp/) and explore my thoughts on data science on [Medium](https://medium.com/@mlbeauchamp).
+
+If you're interested in collaboration, have questions, or just want to chat about data science, you can also reach me at mlbeauchamp58@gmail.com.
+
+Looking forward to connecting with fellow data enthusiasts and sharing knowledge!
 
 Regards,
 
--Michael Beauchamp
+Michael Beauchamp
 
-Data Scientist | Writer | Lifelong Learner  
+Data Scientist | Writer | Lifelong Learner
   
 
 <br/>  
