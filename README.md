@@ -28,8 +28,8 @@ Currently, I'm a Supply Chain Intelligence Analyst at Carrier Corporation, where
 My portfolio is a work in progress and will soon feature a collection of projects that showcase various aspects of the data science life cycle. Some areas I'm diving into include:
 
 - Data Science and Machine Learning
-- Computer Vision
-- Natural Language Processing (NLP) and Artificial Intelligence (AI)
+- Deep Learning - Neural Networks
+- Natural Language Processing (NLP)
 
 ### Connect with Me
 
@@ -43,7 +43,7 @@ Regards,
 
 Michael Beauchamp
 
-Data Scientist | Writer | Lifelong Learner
+Data Scientist | Lifelong Learner
   
 
 <br/>  
