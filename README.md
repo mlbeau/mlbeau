@@ -15,13 +15,25 @@
 </a>  
   
 
-## Welcome to My Data Science Portfolio!
+## Systems Expertise
 
-Glad to see you here! I'm Michael Beauchamp, a seasoned data scientist with a passion for extracting insights from data. With two decades of experience in industrial automation, data analysis, and software engineering, I've honed my skills to tackle complex challenges in the world of data.
+I design and architect modular, API-driven platforms built to solve operational and financial pain points at scale. My focus is on embedded finance, milestone-triggered payments, and system interoperability across the construction and services sectors.
+Key capabilities include:
+* API-First Systems Architecture – Platform design emphasizing modularity, authentication, and integration with third-party ecosystems
+* Embedded Payment Workflows – Experience building logic for ACH, escrow, and project-based payment release
+* QuickBooks API Integration – Deep familiarity with authentication, vendor, invoice, and customer endpoints
+* SaaS Platform Engineering – Infrastructure and backend logic supporting milestone-based billing and audit-ready reconciliation
+* BaaS-Ready Financial Systems – Architected to support Banking-as-a-Service integrations with real-time payment status and automated compliance triggers
+* Operational Analytics & Automation – Design of real-time, event-driven financial tracking for construction and SMB workflows
+* Security-Aware System Design – Data abstraction, scoped permissions, and partner-grade interoperability are fundamental principles in my work
+Note: Select projects involving these systems are not publicly posted to protect intellectual property and pending commercial partnerships. Demo access may be granted to relevant collaborators or fintech partners upon request.
 
-### About Me
-
-Currently, I'm a Supply Chain Intelligence Analyst at Carrier Corporation, where I'm deeply involved in forecasting and optimization. Throughout my career, I've been on a journey of continuous learning, and I'm excited about the dynamic nature of data science and its potential to drive innovation.
+### Data Science & Analytics Foundation
+* Prior to my current systems work, I spent over a decade delivering analytical solutions across enterprise settings. My background includes:
+* Predictive Modeling & Operational Forecasting
+* Business Intelligence & Executive Dashboards
+* Data Pipeline Engineering & API-Driven Analytics
+* Tools: Python, R, SQL, Power BI, Tableau, Scikit-Learn, Keras
 
 ### Portfolio Highlights
 
@@ -33,17 +45,13 @@ My portfolio is a work in progress and will soon feature a collection of project
 
 ### Connect with Me
 
-Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mlbeauchamp/) and explore my thoughts on data science on [Medium](https://medium.com/@mlbeauchamp).
+Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mlbeauchamp/) or read my thoughts on [Medium](https://medium.com/@mlbeauchamp).
 
-If you're interested in collaboration, have questions, or just want to chat about data science, you can also reach me at mlbeauchamp58@gmail.com.
+If you're interested in collaboration, have questions, or want to discuss systems architecture or embedded finance, you can reach me at mlbeauchamp58@gmail.com.
 
-Looking forward to connecting with fellow data enthusiasts and sharing knowledge!
+Looking forward to connecting with fellow builders, founders, and data scientists.
 
-Regards,
-
-Michael Beauchamp
-
-Data Scientist | Lifelong Learner
+— Michael BeauchampSenior Systems Architect | API-First Platforms | Embedded Finance
   
 
 <br/>  
