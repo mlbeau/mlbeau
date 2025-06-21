@@ -53,7 +53,6 @@ If you're interested in collaboration, have questions, or want to discuss system
 Looking forward to connecting with fellow builders, founders, and data scientists.
 
 — Michael Beauchamp
-
 Senior Systems Architect | API-First Platforms | Embedded Finance
   
 
