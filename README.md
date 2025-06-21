@@ -26,6 +26,7 @@ Key capabilities include:
 * BaaS-Ready Financial Systems – Architected to support Banking-as-a-Service integrations with real-time payment status and automated compliance triggers
 * Operational Analytics & Automation – Design of real-time, event-driven financial tracking for construction and SMB workflows
 * Security-Aware System Design – Data abstraction, scoped permissions, and partner-grade interoperability are fundamental principles in my work
+
 Note: Select projects involving these systems are not publicly posted to protect intellectual property and pending commercial partnerships. Demo access may be granted to relevant collaborators or fintech partners upon request.
 
 ### Data Science & Analytics Foundation
@@ -51,7 +52,8 @@ If you're interested in collaboration, have questions, or want to discuss system
 
 Looking forward to connecting with fellow builders, founders, and data scientists.
 
-— Michael BeauchampSenior Systems Architect | API-First Platforms | Embedded Finance
+— Michael Beauchamp
+Senior Systems Architect | API-First Platforms | Embedded Finance
   
 
 <br/>  
