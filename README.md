@@ -1,7 +1,7 @@
 ## Hi there, I'm Michael. ##
 
 **Founder & Systems Architect at LeanLogic Systems, LLC**  
-Builder of **BuildLedger™**, a financial operating system for SMBs in construction and services.  
+Builder of **LeanBuild™**, a financial operating system for SMBs in construction and services.  
 
 With 20+ years of experience in enterprise analytics, business intelligence, and SaaS systems design, I focus on creating platforms that reduce financial friction, streamline workflows, and improve decision-making.  
 
@@ -37,6 +37,6 @@ Prior to LeanLogic Systems, I spent over a decade delivering analytical solution
 ---
 
 ## 📫 Get in Touch  
-- **Email:** mlbeauchamp58@gmail.com  
+- **Email:** michael@leanbuild.ai
 
 I’m always open to connecting with fellow builders, founders, and data scientists. If you’re interested in collaboration or discussing systems architecture and embedded finance, feel free to reach out.  
