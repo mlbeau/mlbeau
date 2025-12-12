@@ -16,7 +16,7 @@ With 20+ years of experience in enterprise analytics, business intelligence, and
 - **Operational Analytics & Automation** – real-time, event-driven financial and project tracking  
 - **Security-Aware Design** – data abstraction, scoped permissions, and enterprise-grade compliance  
 
-> *Note: BuildLedger™ and LeanLogic Systems repositories are private to protect intellectual property and pending partnerships. Demo access may be granted to relevant collaborators or fintech partners upon request.*  
+> *Note: LeanBuild™ and LeanLogic Systems repositories are private to protect intellectual property and pending partnerships. Demo access may be granted to relevant collaborators or fintech partners upon request.*  
 
 ---
 
