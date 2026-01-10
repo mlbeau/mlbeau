@@ -61,7 +61,15 @@ If you’re exploring integration or partnership, feel free to reach out.
 
 ---
 
-## 📫 Get in Touch  
-- **Email:** michael@leanbuild.ai
+## 📫 Get in Touch
 
-I’m always open to connecting with fellow builders, founders, and data scientists. If you’re interested in collaboration or discussing systems architecture and embedded finance, feel free to reach out.  
+If you’re exploring:
+- Workflow platform integration
+- Construction payment or compliance infrastructure
+- Lender monitoring or risk visibility
+- Embedded finance partnerships
+
+I’m happy to connect.
+
+- Email: michael@leanbuild.ai
+- LinkedIn: linkedin.com/in/mlbeauchamp
