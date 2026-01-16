@@ -5,12 +5,12 @@ Builder of **LeanBuild™**, a compliance correctness layer for construction pay
 
 I design systems that sit between workflows and risk, where statutory requirements, financial operations, and real-world execution collide.
 
-My work focuses on isolating correctness from workflow — building infrastructure that validates, explains, and documents compliance before decisions are made, without displacing human judgment or existing systems.
+My work focuses on isolating correctness from workflow — building infrastructure that surfaces and documents compliance-relevant correctness before decisions are made, without displacing human judgment or existing systems.
 
 ---
 
 ## ⚙️ What I’m Building
-LeanBuild is a construction payment correctness layer that validates lien waivers and payment documentation at payment review, not after funds are already in motion.
+LeanBuild is a construction payment correctness layer that surfaces lien waivers and payment documentation at payment review, not after funds are already in motion.
 It exists because deep statutory validation carries liability that workflow platforms cannot economically absorb.
 
 LeanBuild provides:
