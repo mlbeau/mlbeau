@@ -1,55 +1,44 @@
+<!-- Prepared September 10, 2026 for mlbeau/mlbeau/README.md. -->
 # Michael Beauchamp
 
-**Founder & Architect, LeanLogic Systems, LLC**
+**Founder & Architect, LeanLogic Systems, LLC | Data Architecture, Engineering, Automation & Predictive Analytics**
 
-I am building **[Exauren](https://exauren.ai)**, LeanLogic Systems’ measurement architecture for complex, high-obligation environments.
+I help organizations turn fragmented records and recurring data work into dependable datasets, automated workflows, and useful forecasts. My background spans enterprise supply-chain analytics, healthcare data engineering, and applied statistical modeling.
 
-Exauren characterizes populations from mandated data, separates statistical inference from rule-verified fact, and studies how scarce preventive and investigative attention should be directed.
+## Client services
 
-## Lead Research Implementation
+Through LeanLogic Systems, I scope engagements around a business objective, available inputs, and an agreed deliverable. Work can include:
 
-Exauren’s lead research implementation is **U.S. occupational safety**—characterizing the national establishment population from mandated OSHA injury data under prospectively specified, backtested designs.
+- Data reconciliation, integration, and migration preparation.
+- Data pipelines and automation of recurring processing and checks.
+- Predictive modeling, forecasting, and model evaluation.
+- Defined technical work packages for consulting and technology partners.
 
-The work is designed to distinguish:
+I provide architectural direction, guide implementation, and verify deliverables against agreed acceptance criteria. Documentation, limitations, and handoff are included in the agreed scope.
 
-- Statistical inference from rule-verified fact
-- Population characterization from individual adjudication
-- Research findings from operational or compliance determinations
-- Prospective evaluation from retrospective explanation
-- Direction of attention from substitution for human authority
+## Exauren applied research
 
-Exauren identifies where closer attention may be warranted. It does not adjudicate, make compliance determinations, or displace the authority of investigators, regulators, safety professionals, counsel, or institutional decision-makers.
+[Exauren](https://www.exauren.ai/) is LeanLogic Systems' domain-intelligence platform under development for complex, high-obligation environments. Its architecture distinguishes statistical inference, rule-verified facts, and unresolved evidence.
 
-## Originating Research Domain
+The current research application is U.S. occupational safety: characterizing establishment populations from mandated OSHA injury data and evaluating whether those data can help concentrate preventive attention. This application does not define the platform's full scope. Research findings and performance claims depend on completed evaluation.
 
-California public-works prevailing wage was the originating research domain in which important elements of the architecture were formed.
+## Background and public work samples
 
-That work established foundational disciplines around mandated data, evidentiary boundaries, rule verification, uncertainty, and responsible downstream use. It is no longer Exauren’s lead implementation and does not define the platform boundary.
+I bring more than a decade of Fortune 500 supply-chain analytics and data-infrastructure experience, alongside healthcare and higher-education data work. I hold an M.S. in Predictive Analytics from Northwestern University, a B.S. in Mathematics, and an Applied Data Science Program Certificate from MIT Professional Education.
 
-## Current Work
+Public repositories include academic and exploratory work. Academic samples are distinct from commercial engagements and from Exauren research:
 
-- Population characterization from mandated administrative data
-- Prospectively specified and backtested research designs
-- Occupational-safety measurement at national establishment scale
-- Separation of statistical inference from rule-verified fact
-- Bounded analytical conclusions with explicit uncertainty
-- Allocation of scarce preventive and investigative attention
-- Institutional operating models for responsible downstream action
+- [Malaria Detection](https://github.com/mlbeau/Malaria-Detection): an academic image-classification project.
+- [SVHN Recognition](https://github.com/mlbeau/SVHN-Recognition): an academic digit-recognition project.
 
-## Background
+The notebooks provide the implementation and recorded outputs for review. Coursework examples do not establish production deployment or performance in other settings.
 
-My background spans more than 25 years of information-technology work across control systems, enterprise analytics, business intelligence, data engineering, predictive modeling, and software architecture.
+## Connect
 
-I founded **LeanLogic Systems, LLC** to apply that experience to environments where obligations are substantial, available information is incomplete, and conventional review cannot keep pace.
+- [LLS client services](https://www.exauren.ai/#services)
+- [Exauren applied research](https://www.exauren.ai/#research)
+- [LinkedIn](https://www.linkedin.com/in/mlbeauchamp/)
+- Project inquiries: [michael@exauren.ai](mailto:michael@exauren.ai)
+- Company contact: [michael@leanlogic.ai](mailto:michael@leanlogic.ai)
 
-## Public Repositories
-
-The repositories visible here primarily represent earlier analytical and data-science work. They remain available because they are occasionally useful to others and requested for reference.
-
-Current Exauren implementation, architectural doctrine, evaluation methods, and domain assets are maintained privately to protect intellectual property, research integrity, and sensitive operating methods.
-
-## Links
-
-- [Exauren](https://exauren.ai)
-- [LinkedIn](https://www.linkedin.com/in/mlbeauchamp)
-- [Exauren on LinkedIn](https://www.linkedin.com/company/exauren-ai)
+Based in Knoxville, Tennessee; available for scoped remote engagements and delivery partnerships.
