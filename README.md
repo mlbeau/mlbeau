@@ -1,44 +1,40 @@
-<!-- Prepared September 10, 2026 for mlbeau/mlbeau/README.md. -->
+<!-- Prepared October 20, 2026 for mlbeau/mlbeau/README.md. Research identity; no em dashes. -->
 # Michael Beauchamp
 
-**Founder & Architect, LeanLogic Systems, LLC | Data Architecture, Engineering, Automation & Predictive Analytics**
+**Founder & Sole Investigator, LeanLogic Systems, LLC | Exauren: Applied Research for Complex Environments**
 
-I help organizations turn fragmented records and recurring data work into dependable datasets, automated workflows, and useful forecasts. My background spans enterprise supply-chain analytics, healthcare data engineering, and applied statistical modeling.
+I run a research program on public enforcement records, beginning with U.S. occupational safety. The question: when an employer has been documented with an uncontrolled high-energy hazard (a fall exposure, an unshored trench, exposed conductors, an unguarded machine), is a serious injury or death from that same energy more likely to follow, beyond what size, industry and prior injuries already predict?
 
-## Client services
+## The registered study
 
-Through LeanLogic Systems, I scope engagements around a business objective, available inputs, and an agreed deliverable. Work can include:
+**Energy-Specific Recurrence.** A retrospective employer-level cohort on national OSHA inspection, citation, accident-investigation and Severe Injury Report records, 2005–2026, across five energy families, with placebo citations, negative controls and out-of-time validation.
 
-- Data reconciliation, integration, and migration preparation.
-- Data pipelines and automation of recurring processing and checks.
-- Predictive modeling, forecasting, and model evaluation.
-- Defined technical work packages for consulting and technology partners.
+- Registration: [Open Science Framework, t6gds](https://osf.io/t6gds), public since 15 October 2026.
+- Status: registered analyses complete; manuscript in preparation for the *American Journal of Industrial Medicine*.
+- Extension: a NIOSH exploratory research proposal in preparation, asking what further predictive information the public record holds but does not expose: how much energy was present, what the inspector judged, and what control was installed.
+- Investigator: [ORCID 0009-0009-6039-3970](https://orcid.org/0009-0009-6039-3970).
 
-I provide architectural direction, guide implementation, and verify deliverables against agreed acceptance criteria. Documentation, limitations, and handoff are included in the agreed scope.
+## Method
 
-## Exauren applied research
+Hypotheses, classification rules, test scripts, data snapshots and pass/fail criteria are written, hashed and publicly registered before anyone looks. Deviations are logged, never silent. Results are reported against the registration, whether supported, inconclusive or withdrawn. Analyses run in a pinned environment on registered data and reproduce byte for byte. No worker or victim identifiers enter any analysis.
 
-[Exauren](https://www.exauren.ai/) is LeanLogic Systems' domain-intelligence platform under development for complex, high-obligation environments. Its architecture distinguishes statistical inference, rule-verified facts, and unresolved evidence.
+The research code is private while the manuscript is in review; the registered rules and tests are in the OSF registration bundle.
 
-The current research application is U.S. occupational safety: characterizing establishment populations from mandated OSHA injury data and evaluating whether those data can help concentrate preventive attention. This application does not define the platform's full scope. Research findings and performance claims depend on completed evaluation.
+## Background
 
-## Background and public work samples
+I was a PLC programmer before business programming became my career. I spent most of a decade and a half building analytics and data infrastructure inside a Fortune 500 supply-chain organization, with earlier data engineering on healthcare claims and higher-education systems. I hold an M.S. in Predictive Analytics from Northwestern University, a B.S. in Mathematics, and an Applied Data Science Program certificate from MIT Professional Education.
 
-I bring more than a decade of Fortune 500 supply-chain analytics and data-infrastructure experience, alongside healthcare and higher-education data work. I hold an M.S. in Predictive Analytics from Northwestern University, a B.S. in Mathematics, and an Applied Data Science Program Certificate from MIT Professional Education.
+Academic samples, distinct from the research program:
 
-Public repositories include academic and exploratory work. Academic samples are distinct from commercial engagements and from Exauren research:
-
-- [Malaria Detection](https://github.com/mlbeau/Malaria-Detection): an academic image-classification project.
-- [SVHN Recognition](https://github.com/mlbeau/SVHN-Recognition): an academic digit-recognition project.
-
-The notebooks provide the implementation and recorded outputs for review. Coursework examples do not establish production deployment or performance in other settings.
+- [Malaria Detection](https://github.com/mlbeau/Malaria-Detection): image classification (coursework).
+- [SVHN Recognition](https://github.com/mlbeau/SVHN-Recognition): digit recognition (coursework).
 
 ## Connect
 
-- [LLS client services](https://www.exauren.ai/#services)
-- [Exauren applied research](https://www.exauren.ai/#research)
+- [Exauren](https://www.exauren.ai/)
+- [The registered study](https://www.exauren.ai/#study)
+- [OSF t6gds](https://osf.io/t6gds)
 - [LinkedIn](https://www.linkedin.com/in/mlbeauchamp/)
-- Project inquiries: [michael@exauren.ai](mailto:michael@exauren.ai)
-- Company contact: [michael@leanlogic.ai](mailto:michael@leanlogic.ai)
+- Research inquiries: [michael@exauren.ai](mailto:michael@exauren.ai)
 
-Based in Knoxville, Tennessee; available for scoped remote engagements and delivery partnerships.
+Knoxville, Tennessee.
